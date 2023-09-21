@@ -15,6 +15,7 @@
     /* root light theme */
     --text-color: #000;
     --second-text-color: #878b8f;
+    --third-text-color: #212529;
     --hover-color: #6f6af8;
     --bg-color: #f0f0f9;
     --second-bg-color: #fff;
@@ -31,6 +32,7 @@
 .dark-theme-details{
     --text-color: #ffffff;
     --second-text-color: #b3aaaa;
+    --third-text-color: #eee;
     --bg-color: #121215;
     --second-bg-color: #373232;
     --icon-color: #fff;
